@@ -1,4 +1,3 @@
-import { useMemo } from 'react'
 import { Activity } from '../types'
 import CalorieDisplay from './CalorieDisplay'
 
